@@ -1,0 +1,13 @@
+start,
+stworzTablice tab oWartosci [1 & 2 & 3 & 4],
+dlaKazdejWartosci a ZZakresu (1,100): a rownaSie 1 razy 8 dodac b odjac 6 doPotegi p podzielicPrzez 22,
+wypiszZmienna (abc),
+koniecPetli,
+wypiszTekst ("abc"),
+dopoki a jestWiekszeLubRowne 12:
+a rownaSie a razy 3,
+koniecPetli,
+dlaKazdegoElementu b nalezacegoDo tab:
+a rownaSie b dodac 5,
+koniecPetli,
+zakoncz
