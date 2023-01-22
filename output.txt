@@ -1,0 +1,9 @@
+tab = [1, 2, 3, 4]
+for a in range(1,100):
+   a = 1 * 8 + b - 6 ** p / 22
+   print(abc)
+print('abc')
+while a >= 12:
+   a = a * 3
+for b in tab:
+   a = b + 5
